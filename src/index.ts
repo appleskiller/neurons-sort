@@ -1,1 +1,5 @@
-export * from './local/localsort';
+export {
+    getSpell,
+    localSort,
+    localSortIndexies,
+} from './local/localsort';
